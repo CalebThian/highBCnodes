@@ -1,4 +1,4 @@
-cription of homework1 dataset
+#Description of homework1 dataset
 
 There are two datasets in hw1_data.zip file, including a Synthetic data and a real world data.
 
